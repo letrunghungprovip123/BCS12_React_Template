@@ -1,0 +1,1 @@
+Thư mục template chứa các template cấu trúc 
